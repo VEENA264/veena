@@ -1,8 +1,7 @@
-public class demo
-{
-  public static void main(string args[])
-  {
-    System.out.println("hello java");
-  }
-
+public class p1 {
+      public static void main(String args[]);
+            {
+              System.out.println("my first java program")
+            }
 }
+     
